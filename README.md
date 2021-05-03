@@ -16,4 +16,4 @@ Latest announcements: [here](https://github.com/ookangzheng/blahdns#announcement
 
 Status of the servers: it is available [here](https://stats.blahdns.com/)
 
-The website of the service is available [here](https://blahdns.com/)
+The website where the service is available [here](https://blahdns.com/)
